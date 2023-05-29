@@ -25,11 +25,16 @@
 Want to stick an audio with a different persons video .
 have this [link](https://colab.research.google.com/drive/1jxSc_WAhjW23F54Gs5T-hAkfEGHrMU-A#scrollTo=538jbjLmKvcV)
 
-The master branch works with **PyTorch 1.8+**.
-
-https://user-images.githubusercontent.com/15977946/124654387-0fd3c500-ded1-11eb-84f6-24eeddbf4d91.mp4
-
-<br/>
+1.A Video for face 
+   
+   https://raw.githubusercontent.com/TechShark20/mimcrycloner/main/result_voice%202.mp4
+   
+ <br/>
+ 2. A text and an audio 
+   Text ::  " i will run far away "
+   <br/?
+ 3. the output 
+         
 
 <details close>
 <summary><b>Major Features</b></summary>
