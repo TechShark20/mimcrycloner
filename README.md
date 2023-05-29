@@ -27,7 +27,7 @@ have this [link](https://colab.research.google.com/drive/1jxSc_WAhjW23F54Gs5T-hA
 
 1.A Video for face 
    
-   https://raw.githubusercontent.com/TechShark20/mimcrycloner/main/result_voice%202.mp4
+https://raw.githubusercontent.com/TechShark20/mimcrycloner/main/result_voice%202.mp4
    
  <br/>
  2. A text and an audio 
