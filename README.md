@@ -28,7 +28,10 @@ have this [link](https://colab.research.google.com/drive/1jxSc_WAhjW23F54Gs5T-hA
 1.A Video for face 
    
 
-https://github.com/TechShark20/mimcrycloner/assets/122713809/1641c2ec-65ff-4812-b047-250cfef5ac29
+
+https://github.com/TechShark20/mimcrycloner/assets/122713809/8fe4851a-2751-4b54-895f-45fca4c36ad0
+
+
   
 2.A video for audio 
    
