@@ -26,30 +26,18 @@ Want to stick an audio with a different persons video .
 have this [link](https://colab.research.google.com/drive/1jxSc_WAhjW23F54Gs5T-hAkfEGHrMU-A#scrollTo=538jbjLmKvcV)
 
 1.A Video for face 
-   
-
-
-https://github.com/TechShark20/mimcrycloner/assets/122713809/8fe4851a-2751-4b54-895f-45fca4c36ad0
-
-
-  
 2.A video for audio 
-   
-
-
-
-   
- <br/>
- 2. A text and an audio 
-   Text ::  " i will run far away "
-   <br/?
+3. A text and an audio   
+   <br/>
+  Text ::  " i will run far away "
+   <br/>
  3. the output 
          
-      
-
-https://github.com/TechShark20/mimcrycloner/assets/122713809/3c023ea4-8978-46e0-ac57-2a2cfd15abcc
-
    
+
+https://github.com/TechShark20/mimcrycloner/assets/122713809/0d3cb582-1b09-4257-b40a-bb374b797801
+
+
          
 
 <details close>
