@@ -27,11 +27,11 @@ have this [link](https://colab.research.google.com/drive/1jxSc_WAhjW23F54Gs5T-hA
 
 1.A Video for face 
 2.A video for audio 
-3. A text and an audio   
+3.A text and an audio   
+   <br>
+   Text ::  " i will run far away "
    <br/>
-  Text ::  " i will run far away "
-   <br/>
- 3. the output 
+                                                             **the output** 
          
    
 
@@ -65,7 +65,7 @@ Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558.pdf)
    
    *[Used references(colab notebook)](https://colab.research.google.com/github/justinjohn0306/Wav2Lip/blob/master/Wav2Lip_simplified_v5.ipynb#scrollTo=U1xFNFU58_2j)
    
-2.*[A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](https://arxiv.org/abs/2008.10010https://arxiv.org/abs/2008.10010)   
+2.       *[A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild]          (https://arxiv.org/abs/2008.10010https://arxiv.org/abs/2008.10010)   
    
    *[Github](https://github.com/Rudrabha/Wav2Lip)
      
